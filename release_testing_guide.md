@@ -124,5 +124,5 @@ Release testing guide:
 
    i. **Question Paper**
       - Add fixed questions, random questions in a questionpaper and attempt the quiz.
-      - Enable auto shuffle and try to attempt the quiz.
+      - Enable auto shuffle and try to attempt.
 
